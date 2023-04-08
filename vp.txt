@@ -1,1 +1,13 @@
+survival@survival.gith.me
+2T5srEhTWAyx2T5srEhTWAyx2T5srEhTWAy
 
+[Interface]
+PrivateKey = iIAhHxW8jYJ26LCCEEwook9aKZud1isuGUqyebajcG0=
+Address = 10.66.66.2/2,fd42:42:42::2/2
+DNS = 1.1.1.1,8.8.8.8
+
+[Peer]
+PublicKey = 8DmdYmbCMxL+lOG1nZBtwdWhcz2M5QsksABZG4VJc2c=
+PresharedKey = XlnZX+cx+6n3BApPNZumG/gK4R6MBh/sVBQpp9qvxCo=
+Endpoint = 198.244.149.183:62181
+AllowedIPs = 0.0.0.0/0,::/0
